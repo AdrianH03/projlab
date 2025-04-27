@@ -6,3 +6,7 @@
 *.jar
 #Ignore .idea folder
 .idea/
+# Bocs, kraftoltam xd
+shell.nix
+# Ez sem kell
+.vscode
